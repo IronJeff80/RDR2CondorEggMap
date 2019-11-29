@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="./favicon.png" />
+  <title>Red Dead Online - Collectors Map</title>
+  <meta name="description" content="Red Dead Online Condor Egg Event Map.">
+  <meta name="keywords" content="Red Dead Online, Condor Egg, Condor Map, Map, Interactive Map, Interactive">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script src="assets/js/jquery.cookie.js"></script>
+  <link rel="stylesheet" href="assets/css/styles.css?nocache=112" />
+</head>
+<body>
+  <div class="side-menu">
+    <h2 data-text="menu.utils">Condor Eggs</h2>
+    <div>
+      <div class="menu-option clickable" data-type="treasure">
+        <img class="icon" src="./assets/images/icons/treasure.png" />
+        <span data-text="menu.treasures" class="disabled">Condor Eggs</span>
+        <div class="open-submenu"></div>
+      </div>
+      <div class="menu-hidden" data-type="treasure">
+      </div>
+    </div>
+
+  <div class="menu-toggle">></div>
+
+  <div id="map"></div>
+
+  <div class="lat-lng-container">
+    <p></p><button id="lat-lng-container-close-button">×</button>
+  </div>
+  <script src="assets/js/marker.js?nocache=114"></script>
+  <script src="assets/js/treasures.js?nocache=114"></script>
+  <script src="assets/js/encounters.js?nocache=114"></script>
+  <script src="assets/js/map.js?nocache=114"></script>
+  <script src="assets/js/language.js?nocache=115"></script>
+  <script src="assets/js/menu.js?nocache=114"></script>
+  <script src="assets/js/routes.js?nocache=114"></script>
+  <script src="assets/js/scripts.js?nocache=114"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39999584-4"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-39999584-4');
+  </script>
+
+</body>
+
+</html>

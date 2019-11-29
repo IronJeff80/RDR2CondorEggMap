@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# RDR2CollectorsMap
+Items locations credits to [GTA Series Videos](https://www.youtube.com/user/GTASeriesVideos), [Gtax Barrett](https://twitter.com/gtaxbarrett), [IronJeff80](https://github.com/IronJeff80) and [/r/RedDeadOnline](https://www.reddit.com/r/RedDeadOnline)
 
-You can use the [editor on GitHub](https://github.com/IronJeff80/RDR2CondorEggMap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Possible treasures locations by [IronJeff80](https://github.com/IronJeff80), [Dirty Tyler](https://www.youtube.com/channel/UC3LdKFizyou1RfkkmDUUVsg) and [Dean Nutz](https://www.youtube.com/channel/UCBSYrZQsPndOm-zckXNUItw)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Detailed map by [RDR2Map](https://rdr2map.com/)
 
-### Markdown
+Dark map by [TDLCTV](https://github.com/TDLCTV)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thanks for the people over at [https://madamnazar.io/](https://madamnazar.io/) for the API 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IronJeff80/RDR2CondorEggMap/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Discord for contributors and translators https://discord.gg/HkU6ugT
