@@ -20,9 +20,8 @@ var plantsCategories = [
   'texas_bluebonnet', 'bitterweed', 'agarita', 'wild_rhubarb', 'cardinal',
   'creek_plum', 'blood_flower', 'chocolate_daisy', 'wisteria'
 ];
-var categoriesDisabledByDefault = [
-  'treasure', 'random', 'treasure_hunter', 'tree_map', 'egg_encounter', 'grave_robber'
-]
+var categoriesDisabledByDefault = []
+
 var plantsDisabled = [];
 
 var enabledCategories = categories;
