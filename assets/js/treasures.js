@@ -8,7 +8,7 @@ var Treasures = {
   },
   set: function() {
     var treasureIcon = L.icon({
-        iconUrl: '',
+        iconUrl: './assets/images/icons/bird_eggs_white.png',
         iconSize: [35,45],
         iconAnchor: [17,42],
         popupAnchor: [1,-32],
