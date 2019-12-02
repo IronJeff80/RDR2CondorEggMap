@@ -42,9 +42,6 @@
 	{"key": "north_ridgewood_treasure", 		"value": "North Ridgewood"},
 	{"key": "north_tumbleweed_treasure", 		"value": "North Tumbleweed"},
 	{"key": "ocreaghs_run_treasure", 			"value": "O'Creagh's Run"},
-	{"key": "san_luis_treasure", 				"value": "Condor Egg - Raoanoke Ridge"},
-	{"key": "southren_roanoke_treasure", 		"value": "Condor Egg - Tall Trees"},
-	{"key": "west_hill_haven_treasure", 		"value": "Condor Egg - Gaptooth Ridge"},
 
 	{"key": "cups_ace.name", "value": "Ace of Cups"},
 	{"key": "cups_ace_1.desc", "value": "Inside the barn on some haybales."},
