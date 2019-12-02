@@ -7,6 +7,14 @@ var Treasures = {
     });
   },
   set: function() {
+    var treasureIcon = L.icon({
+        iconUrl: './assets/images/icons/bird_eggs_purple.png',
+        iconSize: [35,45],
+        iconAnchor: [17,42],
+        popupAnchor: [1,-32],
+        shadowAnchor: [10,12],
+        shadowUrl: './assets/images/markers-shadow.png'
+    });
     var crossIcon = L.icon({
         iconUrl: './assets/images/icons/cross.png',
         iconSize: [16,16],
