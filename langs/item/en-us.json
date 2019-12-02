@@ -16,6 +16,10 @@
 	{"key": "fasttravel.lagras.name", 		"value": "Lagras"},
 	{"key": "madam_nazar.name", 			"value": "Madam Nazar"},
 
+
+	{"key": "san_luis_treasure", 				"value": "Condor Egg - Roanoke Ridge"},
+	{"key": "southren_roanoke_treasure", 		"value": "Condor Egg - Tall Trees"},
+	{"key": "west_hill_haven_treasure", 		"value": "Condor Egg - Gaptooth Breach"},
 	{"key": "bards_crossing_treasure", 			"value": "Bard's Crossing"},
 	{"key": "benedict_treasure", 				"value": "Benedict Point"},
 	{"key": "blackbone_forest_treasure", 		"value": "Black Bone Forest"},
