@@ -16,7 +16,7 @@ var Treasures = {
         shadowUrl: './assets/images/markers-shadow.png'
     });
     var crossIcon = L.icon({
-        iconUrl: './assets/images/icons/bird_eggs.png',
+        iconUrl: './assets/images/icons/bird-eggs.png',
         iconSize: [16,16],
         iconAnchor: [8,8]
     });
