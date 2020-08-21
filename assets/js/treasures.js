@@ -8,7 +8,7 @@ var Treasures = {
   },
   set: function() {
     var treasureIcon = L.icon({
-        iconUrl: './assets/images/icons/bird_eggs_white.png',
+        iconUrl: './assets/images/icons/condor_egg_purple.png',
         iconSize: [35,45],
         iconAnchor: [17,42],
         popupAnchor: [1,-32],
@@ -16,7 +16,7 @@ var Treasures = {
         shadowUrl: './assets/images/markers-shadow.png'
     });
     var crossIcon = L.icon({
-        iconUrl: './assets/images/icons/cross.png',
+        iconUrl: './assets/images/icons/bird_eggs.png',
         iconSize: [16,16],
         iconAnchor: [8,8]
     });
